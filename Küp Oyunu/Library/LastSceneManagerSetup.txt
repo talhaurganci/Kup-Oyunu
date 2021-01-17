@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Sahneler/bolumkilit.unity
+  isLoaded: 1
+  isActive: 1

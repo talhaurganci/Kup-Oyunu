@@ -1,0 +1,129 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f15)
+    Vendor:   NVIDIA
+    VRAM:     5980 MB
+    Driver:   30.0.14.9649
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\talha\Desktop\kupoyunu\küpoyunu_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\talha\Desktop\kupoyunu\küpoyunu_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\talha\Desktop\kupoyunu\küpoyunu_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\talha\Desktop\kupoyunu\küpoyunu_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\talha\Desktop\kupoyunu\küpoyunu_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\talha\Desktop\kupoyunu\küpoyunu_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\talha\Desktop\kupoyunu\küpoyunu_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\talha\Desktop\kupoyunu\küpoyunu_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\talha\Desktop\kupoyunu\küpoyunu_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\talha\Desktop\kupoyunu\küpoyunu_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\talha\Desktop\kupoyunu\küpoyunu_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\talha\Desktop\kupoyunu\küpoyunu_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\talha\Desktop\kupoyunu\küpoyunu_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\talha\Desktop\kupoyunu\küpoyunu_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.063 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.832200 ms
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 19b0 -> priority: 1 
+  Thread -> id: 72c -> priority: 1 
+  Thread -> id: 35ac -> priority: 1 
+  Thread -> id: cfc -> priority: 1 
+  Thread -> id: 4140 -> priority: 1 
+  Thread -> id: 432c -> priority: 1 
+  Thread -> id: 440 -> priority: 1 
+  Thread -> id: 12fc -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.995400 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.253500 ms (FindLiveObjects: 0.019200 ms CreateObjectMapping: 0.012700 ms MarkObjects: 0.182500 ms  DeleteObjects: 0.038200 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.589600 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 335.
+Total: 0.278300 ms (FindLiveObjects: 0.022100 ms CreateObjectMapping: 0.019100 ms MarkObjects: 0.208500 ms  DeleteObjects: 0.027900 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.356200 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.259500 ms (FindLiveObjects: 0.023700 ms CreateObjectMapping: 0.013200 ms MarkObjects: 0.179800 ms  DeleteObjects: 0.042000 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.303600 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 335.
+Total: 0.258800 ms (FindLiveObjects: 0.022200 ms CreateObjectMapping: 0.014600 ms MarkObjects: 0.195400 ms  DeleteObjects: 0.025700 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.265600 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.213600 ms (FindLiveObjects: 0.017800 ms CreateObjectMapping: 0.010500 ms MarkObjects: 0.151600 ms  DeleteObjects: 0.032900 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.324300 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 335.
+Total: 0.280500 ms (FindLiveObjects: 0.025000 ms CreateObjectMapping: 0.013100 ms MarkObjects: 0.217500 ms  DeleteObjects: 0.024100 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.747700 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 384.
+Total: 0.657800 ms (FindLiveObjects: 0.050200 ms CreateObjectMapping: 0.034300 ms MarkObjects: 0.483000 ms  DeleteObjects: 0.088600 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.519200 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 535.
+Total: 0.219000 ms (FindLiveObjects: 0.024000 ms CreateObjectMapping: 0.009400 ms MarkObjects: 0.143800 ms  DeleteObjects: 0.041400 ms)
+
+[x, y, z] = [1, 2, 1]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.959400 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 772.
+Total: 0.611000 ms (FindLiveObjects: 0.093900 ms CreateObjectMapping: 0.057500 ms MarkObjects: 0.439600 ms  DeleteObjects: 0.017700 ms)
+
+[x, y, z] = [1, 2, 1]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.106900 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 630.
+Total: 0.534200 ms (FindLiveObjects: 0.079000 ms CreateObjectMapping: 0.038800 ms MarkObjects: 0.397300 ms  DeleteObjects: 0.017600 ms)
+
+[x, y, z] = [1, 2, 1]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.429700 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 797.
+Total: 0.469500 ms (FindLiveObjects: 0.090100 ms CreateObjectMapping: 0.049200 ms MarkObjects: 0.315600 ms  DeleteObjects: 0.013300 ms)
+
+[x, y, z] = [1, 2, 1]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Oyunu kazandınız.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.532700 ms
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 338.
+Total: 0.237100 ms (FindLiveObjects: 0.016500 ms CreateObjectMapping: 0.008100 ms MarkObjects: 0.136300 ms  DeleteObjects: 0.075600 ms)
+

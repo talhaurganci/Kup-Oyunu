@@ -4,7 +4,7 @@ Oyun Programlama dersinde geliştirdiğim bir Unity Projesidir. Talha Urgancı v
 Bu projede geliştirdiğimiz oyunu oynamak isterseniz küpoyunu.exe ve küpoyunu_Data dosyalarını indirerek oyunumuzu deneyebilirsiniz :)
 
 This is a Unity Project I developed in Game Programming class. It was developed by Talha Urgancı and Muhammed Emin Tırnakçı.
-If you want to play the game we developed in this project, you can try our game by downloading the cubeoyunu.exe and cubeoyunu_Data files :)
+If you want to play the game we developed in this project, you can try our game by downloading the küpoyunu.exe and küpoyunu_Data files :)
 
 
 ![ana_menu](https://user-images.githubusercontent.com/65421059/141023886-bccbfc9e-1561-44f0-bab4-fe64661c7665.png)
